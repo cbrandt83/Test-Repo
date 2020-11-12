@@ -4,6 +4,6 @@ Learning to use markdown language in Github so I can complete challenges
 *regular bullet
 *next line
 ## Testing Images
-![Velen-Blacksmith](/Users/carlesonbrandt/Desktop/Velen-Blacksmith.jpg)
+![Puppypic](/Users/carlesonbrandt/Desktop/Puppypic.png)
 ## Testing Hyperlinks
 [Test Excel-to-git](cbrandt83/Test-Repo/blob/main/Test Excel-to-git.xlsx)
