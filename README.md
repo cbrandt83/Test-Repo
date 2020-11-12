@@ -2,8 +2,7 @@
 Learning to use markdown language in Github so I can complete challenges
 ## Testing Bullets
 * regular bullet
-1numbered bullt
--a hyphen bullet
+next line
 ## Testing Images
 ![Velen-Blacksmith](/Users/carlesonbrandt/Desktop/Velen-Blacksmith.jpg)
 ## Testing Hyperlinks
