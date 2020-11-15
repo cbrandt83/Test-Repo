@@ -6,5 +6,5 @@ Learning to use markdown language in Github so I can complete challenges
 ## Testing Images
 ![Puppypic](Puppypic.png)
 ## Testing Hyperlinks To Files
-[Test Excel-to-git](/Test Excel-to-git.xlsx)
+[Test Excel-to-git](Test%20Excel-to-git.xlsx)
 [filename](path/to/filename.xlxs)
