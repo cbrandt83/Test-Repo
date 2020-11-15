@@ -7,4 +7,5 @@ Learning to use markdown language in Github so I can complete challenges
 ![Puppypic](Puppypic.png)
 ## Testing Hyperlinks To Files
 [Test Excel-to-git](Test%20Excel-to-git.xlsx)
-[filename](path/to/filename.xlxs)
+* don't have speaces in the names of files you are trying to link
+Example snytax: [filename](path/to/filename.xlxs)
